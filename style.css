@@ -1,0 +1,56 @@
+body{
+    font-family:'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    padding:20px;
+    margin:0;
+    background-image:url(img.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    min-height:100vh;
+}
+.wrapper{
+    background-color:transparent;
+    padding:20px;
+    backdrop-filter: blur(20px);
+    margin:40px auto;
+    max-width: 400px;
+    border:solid 2px #555;
+    border-radius: 20px;
+    box-shadow:1px 1px 10px #555;
+}
+.wrapper h1{
+    text-align: center;
+    padding:20px;
+    margin: 1px;
+}
+.wrapper .lab{
+    display: block;
+    margin-bottom: 5px;
+}
+.wrapper input{
+    padding:15px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #f9fbfc;
+    border: 2px solid #ccc;
+    border-radius:20px;
+    margin-bottom: 5px;
+}
+.wrapper button{
+    padding:10px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: #e9eaeb;
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid #ccc;
+    border-radius:20px;
+}
+.wrapper .forgot-link{
+    text-align: center;
+    margin-top:15px;
+}
+.wrapper a{
+    text-decoration:none;
+    color:#4a4a4a;
+}
