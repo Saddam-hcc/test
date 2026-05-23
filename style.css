@@ -2,7 +2,7 @@ body{
     font-family:'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
     padding:20px;
     margin:0;
-    background-image:url();
+    background-image:url(/test/wallpaper.png);
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
